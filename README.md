@@ -44,6 +44,20 @@ Si el texto qué deseamos enfatizar se encuentra en un párrafo, podemos utiliza
 
 ##### Texto en Negrita (BOLD)
 Para poder poner el texto en negrita, este deberá ser encerrado entre dobles *
+EJEMPLO:
+Texto Texto Texto Texto Texto Importante Texto Texto Texto Texto Texto Texto 
+
+##### Texto en cursiva (ITALIC)
+Para poder poner el texto en cursiva, este deberá ser encerrado con la 
+Texto Texto Texto Texto <i>Texto Importante</i> Texto Texto Texto Texto Texto Texto
 
 
-
+##### Texto en cursiva y negrita(BOLD/ITALIC)
+Para poder poner el texto en cursiva y negrita, este deberá ser encerrado con la 
+Texto TextoTexto Texto Texto Texto **Texto importante** Texto Texto Texto Texto
+**Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto**
+~~Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto~~
+#### Subrayado (UNDERLINE)
+algunas veces necesitaremos subrayar texto dentro de la documentacion, para ello, si bien markdown no tiene atajo o codificacion rapida podemos utilizar el estilo que use el estandar HTML usando tag/<ins> y cerrando con /</ins>.
+**EJEMPLO**
+TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO
