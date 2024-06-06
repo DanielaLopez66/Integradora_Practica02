@@ -11,5 +11,22 @@ Para poder realizar una buena documentación del proyecto debemos, distribuir co
 ##### Encabezado de Nivel 5 -Similar a H1 en HTML
 ###### Encabezado de Nivel 6 -Similar a H1 en HTML
 ####### Encabezado de Nivel 7 -Solo 6 son los niveles permitidos
+### 2. Separadores (SEPARATORS)
+Si se desea marcar una separación más visual de contenidos podemos utilizarlos indicando 3 caracteres de "-" continuos, en el maquetado.
+EJEMPLO:
+---
+*Esto es similar a un tag de < HR > en HTML.
+### 3. Párrafos (PARAGRPANS)
+Son utilizados para por presentar grandes sesiones de texto que describen detalladamente las sesiones de la documentación del proyecto. 
+EJEMPLO:
+
+Este texto permanece al párrafo 1  Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1 Este texto permanece al párrafo 1  Este texto permanece al párrafo 1  Este texto permanece al párrafo 1.
+
+Este texto permanece al párrafo 2  Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2 Este texto permanece al párrafo 2.
+
+Lo que es una página utilizaríamos etiqueta < P >
+También podemos aplicar estilos básicos de alineación:
+
+
 
 
