@@ -26,9 +26,11 @@ Este texto permanece al párrafo 2  Este texto permanece al párrafo 2 Este text
 
 Lo que es una página utilizaríamos etiqueta < P >
 También podemos aplicar estilos básicos de alineación:
+
 <p align="right">
 Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación Este párrafo está alineado a la derecha utilizando la propiedad de alineación
 <\p>
+  
 <p align="center">
 Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación Este párrafo está centrado usando la propiedad de alineación 
 <\p>
@@ -37,7 +39,11 @@ Este párrafo está centrado usando la propiedad de alineación Este párrafo es
 Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineaciónEste párrafo estará justificado utilizando la propiedad de alineación
 </p>
 
+### 4. Texto Enfatizado (BOLD,ITALIC,BOLD/ITALIC)
+Si el texto qué deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
 
+##### Texto en Negrita (BOLD)
+Para poder poner el texto en negrita, este deberá ser encerrado entre dobles *
 
 
 
