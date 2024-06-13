@@ -139,3 +139,9 @@ Documentación creada por: ***Ana Daniela Lopez Neri***
 <230415@utxicotepec.edu.mx>
 
 <http://www.utxicotepec.edu.mx>
+
+### 9. Imágenes 
+Se puede añadir Imágenes al ingresar en el repositorio, por medio de la opción **Add file** teniendo esto se deberá usar la siguiente ruta:
+<\img src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
+**EJEMPLO**
+<\img src=https://\raw.githubusercontent.com/Daniela/Integradora02/main/IMG-20240611-WA0113.jpg>
