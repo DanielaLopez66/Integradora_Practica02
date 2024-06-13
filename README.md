@@ -187,6 +187,33 @@ Dado que en el ejemplo pasado usando solo el markdown no se puede realizar la fu
 <Td>fila 2 celda1</td>
 <Td colspan=3 align="center">fila 2 celda2</td>
 <\tr>
+<Td rowspan=3>fila3 celda1</td>
+<tr>fila3celda2</td>
+<tr>fila3celda3</td>
+<tr>fila3celda4</td>
+<\tr>
+<tr>
+<tr>fila4celda2</td>
+<tr>fila4celda3</td>
+<tr>fila4celda4</td>
+<\tr>
+<tr>
+<tr>
+<td>fila5 celda3</td>
+<td>fila5 celda4</td>
+<\tr>
 
 <tr>
-<Td rowspan=3>fila3 celda1</td>
+<td>fila6 celda1</td>
+<td>fila6 celda2</td>
+<td>fila6 celda3</td>
+<td>fila6celda4</td>
+<\tr>
+
+<tr>
+<\table>
+
+### 9. Imágenes 
+Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotografías,o cualquier representación gráfica, utilizaremos la estructura de las ligas ,maquetanto el nombre de la imagen usando paréntesis 
+***Ejemplo**
+IMG-20240611-WA0113.jpg
