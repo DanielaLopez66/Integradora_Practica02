@@ -151,4 +151,42 @@ src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
 ### 8. tablas(tables)
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
 
-***EJEMPLO***
+***Ejemplo***
+|Encabezado 1| Encabezado 2| encabezado 3|Encabezado 4|
+|--------------|----------|-------|------|
+|Fila 1 Celda 1| fila celda 2| fila celda3|filacel4|
+|Fila2 celda1|fila2 celda 2|fila2 celda3|fila2 celda4|
+|Fila 3 celda1|fila3celda2|fila3 celda3|fila3 celda4|
+En caso de necesitar la fusión de celdas en columnas usaremos la propiedad*colspan* del tag\<td> y en el caso de necesitar la fusión de filas utilizaremos la propiedad*rowapan*
+
+**Ejemplo**
+|Encabezado 1|encabezado 2|encabezado3|encabezado 4|
+|-------|-------|-------|------|
+|Fila1 celda1|fila1celda2|fila1celda3|fila1celda4|
+|Fila2celda1<tb colspan=2> fila2 celda2|fila2celda3|
+|Fila3celda1|fila3celda2|fila3celda3|fila3celda4|
+|      |fila4celda2|fila4celda3|fila4celda4|
+|.    |fila5celda2|fila5celda3|fila5celda4|
+|Fila6celda1|fila6celda2|fila6celda3|fila6celda4|
+Dado que en el ejemplo pasado usando solo el markdown no se puede realizar la fusión de filas debemos utilizar el estandar de HTML,usando los tags:\<th>para los encabezados ,\<tr>para las filas y <td>para las celdas ,y con ellos utilizar la propiedad de *colspan*y *rowspan*
+**Ejemplo**
+<Table>
+<Tr>
+<Th>encabezado 1</th>
+<th>encabezado 2</th>
+<Th>encabezado 3</th>
+<Th>encabezado 4</th>
+<\tr>
+<tr>
+       <Td>fila 1 celda1</td>
+        <Td>fila 1 celda2</td>
+        <Td>fila 1 celda3</td>
+         <Td>fila 1 celda4</td>
+<\tr>
+<tr>
+<Td>fila 2 celda1</td>
+<Td colspan=3 align="center">fila 2 celda2</td>
+<\tr>
+
+<tr>
+<Td rowspan=3>fila3 celda1</td>
