@@ -146,7 +146,7 @@ Se puede añadir Imágenes al ingresar en el repositorio, por medio de la opció
 src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
 **EJEMPLO**
 **Add file**
-https://github.com/DanielaLopez66/Integradora_Practica02/blob/main/IMG-20240611-WA0085.jpg
+https://github.com/DanielaLopez66/Integradora_Practica02/main/IMG-20240611-WA0085.jpg
 
 ### 8. tablas(tables)
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
