@@ -147,3 +147,8 @@ src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
 **EJEMPLO**
 **Add file**
 <\img src=https://\raw.githubusercontent.com/Daniela/Integradora_Practica02/main/IMG-20240611-WA0113.jpg>
+
+### 8. tablas(tables)
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
+
+***EJEMPLO***
