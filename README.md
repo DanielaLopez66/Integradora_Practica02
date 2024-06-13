@@ -215,5 +215,5 @@ Dado que en el ejemplo pasado usando solo el markdown no se puede realizar la fu
 
 ### 9. Imágenes 
 Si la documentación requiere de incorporar imágenes, esquemas, modelos, fotografías,o cualquier representación gráfica, utilizaremos la estructura de las ligas ,maquetanto el nombre de la imagen usando paréntesis 
-***Ejemplo**
-IMG-20240611-WA0113.jpg
+***EJEMPLO ***
+https://github.com/DanielaLopez66/Integradora_Practica02/commits/main/IMG-20240611-WA0113.jpg
