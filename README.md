@@ -144,4 +144,4 @@ Documentación creada por: ***Ana Daniela Lopez Neri***
 Se puede añadir Imágenes al ingresar en el repositorio, por medio de la opción **Add file** teniendo esto se deberá usar la siguiente ruta:
 <\img src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
 **EJEMPLO**
-<\img src=https://\raw.githubusercontent.com/Daniela/Integradora02/main/IMG-20240611-WA0113.jpg>
+<\img src=https://\raw.githubusercontent.com/Daniela/Integradora_Practica02/main/IMG-20240611-WA0113.jpg>
