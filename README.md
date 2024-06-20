@@ -145,8 +145,8 @@ Se puede añadir Imágenes al ingresar en el repositorio, por medio de la opció
 <\img=
 src=https://\raw.githubusercontent.com/usuario/repositorio/rama/ruta-al-asset/>
 **EJEMPLO**
-**Add file**
-![imagen](https://github.com/DanielaLopez66/Integradora_Practica02/main/IMG-20240611-WA0085.jpg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### 8. tablas(tables)
 Si la documentación lo requiere podemos presentar información en formato de tablas con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
